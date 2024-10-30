@@ -6,3 +6,5 @@ Nuestro proyecto está enfocado en brindar a los usuarios ropa deportiva para qu
 ## Características
 - **Modo Oscuro:**  Utiliza un modo oscuro básico
 - **Formulario de Newsletter**
+
+  ## Hola pull request
